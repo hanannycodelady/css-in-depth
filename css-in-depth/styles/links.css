@@ -1,0 +1,17 @@
+a:hover {
+    color: red;
+  }
+  .link-button {
+    display: inline-block;
+    padding: 8px 16px;
+    text-decoration: none;
+    background-color: transparent;
+    border: 1px solid #007bff;
+    color: #007bff;
+    transition: background-color 0.3s ease-in-out, color 0.3s ease-in-out;
+  }
+  
+  .link-button:hover {
+    background-color: #007bff;
+    color: #fff;
+  }
